@@ -10,5 +10,7 @@ package Demo;
  * @author Personal
  */
 public class DemoLamViecNhom {
-    
+    public static void main(String[] args) {
+        int D;
+    }
 }
